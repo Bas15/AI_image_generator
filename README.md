@@ -1,7 +1,7 @@
 # AI_image_generator
 
- A static web app that utilizes openAi image generating Api 
- you can input what type of image you want and select preferred size
+ A static web app that utilizes openAi image generating Api. 
+ You can input what type of image you want and select preferred size
 
  To test
 (https://ai-image-gen-1.onrender.com/)
